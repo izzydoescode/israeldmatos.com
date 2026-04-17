@@ -8,10 +8,10 @@ import { scrollToSection } from "../util/animation";
 import { socialLinkIcon } from "../styles/layout.module.css";
 
 const icons = [
-	{ Icon: FaLinkedin, url: "https://www.linkedin.com/in/izzy-matos" },
-	{ Icon: FaFacebook, url: "https://www.facebook.com/israel.matos.963" },
-	{ Icon: FaInstagram, url: "https://www.instagram.com/izzydoesreels/" },
-	{ Icon: FaGithub, url: "https://www.github.com/izzydoesit" },
+	{ Icon: FaLinkedin, url: "https://www.linkedin.com/in/izzydoescode" },
+	{ Icon: FaFacebook, url: "https://www.facebook.com/izzydoescode" },
+	{ Icon: FaInstagram, url: "https://www.instagram.com/izzydoescode/" },
+	{ Icon: FaGithub, url: "https://www.github.com/izzydoescode" },
 ];
 
 const Footer: React.FC = () => {
