@@ -69,7 +69,7 @@ npm 6.2.0
 From the command terminal, clone the repository to your local directory...
 
 ```
-$ git clone https://www.gihub.com/izzydoesit/israeldmatos.com.git
+$ git clone https://www.gihub.com/izzydoescode/israeldmatos.com.git
 $ cd israeldmatos.com
 ```
 
@@ -91,7 +91,7 @@ $ npm run dev
 
 # Author
 
-- **Israel Matos** ([Portfolio](https://www.israeldmatos.com) | [LinkedIn](https://linkedin.com/in/israedmatos) | [Github](https://github.com/izzydoesit))
+- **Israel Matos** ([Portfolio](https://www.israeldmatos.com) | [LinkedIn](https://linkedin.com/in/israedmatos) | [Github](https://github.com/izzydoescode))
 
 # License
 
